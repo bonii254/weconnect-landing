@@ -40,4 +40,4 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/weconnect-landing.git
+   git clone https://github.com/bonii254/weconnect-landing.git
